@@ -75,10 +75,8 @@ Cape Peninsula University of Technology
 
 ---
 ##  References
-<details>
-<summary><b>References</b></summary>
 
 **Enlabeler**
 - **Lugcino Ngqaza** (Squad Leader): +27 65 729 4319
 - **Berna van Rooijen** (Project Manager): berna@enlabeler.com | +27 60 606 0505
-</details
+

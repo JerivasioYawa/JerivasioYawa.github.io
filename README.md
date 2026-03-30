@@ -77,8 +77,11 @@ Cape Peninsula University of Technology
 ##  References
 
 **Enlabeler**
-- **Lugcino Ngqaza** (Squad Leader): +27 65 729 4319
-- **Berna van Rooijen** (Project Manager): berna@enlabeler.com | +27 60 606 0505
+
+| Name | Position | Contact details |
+| :--- | :--- | :--- |
+|**Lugcino Ngqaza** | **Squad Leader** |  +27 65 729 4319 |
+|**Berna van Rooijen** | **Project Manager** |  berna@enlabeler.com / +27 60 606 0505 |
 
 ---
 
@@ -86,6 +89,6 @@ Cape Peninsula University of Technology
 # Mock-Interview
 
 |**Title** | **Video Url** |
-| :--- | :--- |
-| **Ayabonga_Jervasio_Yawa_Mock-Interview | https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3 |
+| :--- | :--- | 
+| **Ayabonga_Jervasio_Yawa_Mock-Interview** | <https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3> |
 

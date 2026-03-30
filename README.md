@@ -87,5 +87,5 @@ Cape Peninsula University of Technology
 
 |**Title** | **Video Url** |
 | :--- | :--- |
-| **Ayabonga_Jervasio_Yawa_Mock-Interview | https://github.com/user-attachments/assets/09b2f302-5b30-48a9-925f-77ef7ca028ac |
+| **Ayabonga_Jervasio_Yawa_Mock-Interview | https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3 |
 

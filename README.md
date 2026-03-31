@@ -11,8 +11,7 @@
 ---
 
 ##  Professional Summary
-Final-year Information and Communication Technology student at the Cape Peninsula University of Technology (CPUT. Specializing in Application Development with practical experience in software development, database management, and IT support. Passionate about delivering efficient, user-focused technology solutions.
-
+Final-year Information and Communication Technology student specializing in Application Development. Possess practical experience in IT support and software development through multiple academic projects. Proficient in Java, Python, and PHP, with hands-on experience in database management and system troubleshooting across Windows and Linux environments. Strong foundation in networking and cybersecurity, with a passion for delivering efficient, user-focused technology solutions in a professional IT environment.
 ---
 
 ##  Education
@@ -94,6 +93,6 @@ Cape Peninsula University of Technology
 
 <iframe width="640" height="360"
   src="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3"
-  frameborder="0"
+  frameborder="10"
   allowfullscreen>
 </iframe>

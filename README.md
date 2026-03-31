@@ -12,6 +12,7 @@
 
 ##  Professional Summary
 Final-year Information and Communication Technology student specializing in Application Development. Possess practical experience in IT support and software development through multiple academic projects. Proficient in Java, Python, and PHP, with hands-on experience in database management and system troubleshooting across Windows and Linux environments. Strong foundation in networking and cybersecurity, with a passion for delivering efficient, user-focused technology solutions in a professional IT environment.
+
 ---
 
 ##  Education

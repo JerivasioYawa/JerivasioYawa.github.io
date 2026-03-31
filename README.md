@@ -86,11 +86,6 @@ Cape Peninsula University of Technology
 ---
 
 
-# Mock-Interview
-
-|**Title** | **Video Url** |
-| :--- | :--- | 
-| **Ayabonga_Jervasio_Yawa_Mock-Interview** |  |
 
 
 # Mock-Interview
@@ -98,7 +93,7 @@ Cape Peninsula University of Technology
 ## Ayabonga_Jervasio_Yawa_Mock-Interview
 
 <iframe width="640" height="360"
-  src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+  src="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3"
   frameborder="0"
   allowfullscreen>
 </iframe>

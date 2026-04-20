@@ -89,15 +89,8 @@ Cape Peninsula University of Technology
 
 
 # Mock-Interview
-
-<div align="center">
-  <video width="640" height="360" controls>
-    <source src="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<iframe width="640" height="360" src="https://github.com/user-attachments/assets/e9689401-379b-4676-81cb-a79136fa08e3" frameborder="10" allowfullscreen> </iframe>
 
 ---
-
 
 [GITHUB PORTFOLIO REFLECTION](https://github.com/JerivasioYawa/JerivasioYawa.github.io/blob/f57c6580b68b7ef3383129ba6b3a8e3987ffa3cb/GITHUB%20Portfolio%20STAR%20Method%20Reflections.md)

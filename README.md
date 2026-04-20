@@ -93,4 +93,4 @@ Cape Peninsula University of Technology
 
 ---
 
-[GITHUB PORTFOLIO REFLECTION](https://github.com/JerivasioYawa/JerivasioYawa.github.io/blob/f57c6580b68b7ef3383129ba6b3a8e3987ffa3cb/GITHUB%20Portfolio%20STAR%20Method%20Reflections.md)
+## [GITHUB PORTFOLIO REFLECTION](https://github.com/JerivasioYawa/JerivasioYawa.github.io/blob/f57c6580b68b7ef3383129ba6b3a8e3987ffa3cb/GITHUB%20Portfolio%20STAR%20Method%20Reflections.md)
